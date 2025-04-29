@@ -1,6 +1,8 @@
 #config files
 config.json
 accounts.json
+LauncherConfig/
+archieved/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
